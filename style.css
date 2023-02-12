@@ -82,6 +82,10 @@ footer div a {
     border: solid var(--defColor) 1px;
 }
 
+.smallBottom {
+    margin-bottom: 10px;
+}
+
 .description {
     font-family: var(--font);
     font-size: 12px;
